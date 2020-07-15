@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/43065890/87534642-f96ca200-c69e-11ea-857f-c5e8a482c122.png)
+![image](https://user-images.githubusercontent.com/43065890/87535019-7e57bb80-c69f-11ea-93b8-c49d14331b55.png)
 
 <!--
 **UraQwav/UraQwav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
